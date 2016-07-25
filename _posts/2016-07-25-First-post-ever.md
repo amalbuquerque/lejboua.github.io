@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "Hello world!"
+title: "Hello, world!"
 
 date: 2016-07-25
 
