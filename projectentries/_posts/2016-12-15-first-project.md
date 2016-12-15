@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: project
 
 title: "Split Planck"
 
